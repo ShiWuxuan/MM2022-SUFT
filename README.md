@@ -1,6 +1,6 @@
 # SUFT
 
-ACM MM 2022: Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution. 
+ACM MM 2022: Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution. [arXiv](https://arxiv.org/abs/2306.00386)
 
 ## Abstract
 
